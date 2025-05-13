@@ -2,7 +2,8 @@
 
 Nome: Victor Martins Almeida 
 
-HTML
-CSS
-JAVA-SCRIPT
-API-REST
+HTML: Intermediário
+CSS: Intermediário
+JAVA-SCRIPT: Intermediário 
+API-REST: Básico
+GIT/GITHUB: Básico
